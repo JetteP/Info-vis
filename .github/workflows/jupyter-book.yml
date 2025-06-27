@@ -1,5 +1,10 @@
 name: Build & deploy Jupyter Book
 
+# Grant Pages and repo contents write access
+permissions:
+  contents: write     # allow committing to gh-pages
+  pages: write        # allow publishing Pages
+
 on:
   push:
     branches: [ main ]
