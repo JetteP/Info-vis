@@ -1,0 +1,61 @@
+code,name,Month,Temperature,Precipitation
+BRA,Brazil,2022-01,25.35,240.57
+CHN,China,2022-01,-7.79,20.66
+KEN,Kenya,2022-01,25.89,35.44
+NLD,Netherlands,2022-01,3.22,69.59
+USA,United States of America,2022-01,-2.76,61.64
+BRA,Brazil,2022-02,25.31,223.7
+CHN,China,2022-02,-4.09,25.35
+KEN,Kenya,2022-02,26.76,25.12
+NLD,Netherlands,2022-02,3.91,65.25
+USA,United States of America,2022-02,-0.8,57.0
+BRA,Brazil,2022-03,25.16,240.45
+CHN,China,2022-03,1.71,42.38
+KEN,Kenya,2022-03,26.88,62.16
+NLD,Netherlands,2022-03,6.03,56.69
+USA,United States of America,2022-03,3.15,65.75
+BRA,Brazil,2022-04,24.83,192.56
+CHN,China,2022-04,8.39,59.96
+KEN,Kenya,2022-04,25.87,102.48
+NLD,Netherlands,2022-04,9.64,53.0
+USA,United States of America,2022-04,8.71,70.0
+BRA,Brazil,2022-05,23.97,139.69
+CHN,China,2022-05,13.76,90.32
+KEN,Kenya,2022-05,25.37,68.9
+NLD,Netherlands,2022-05,13.13,73.38
+USA,United States of America,2022-05,14.45,75.42
+BRA,Brazil,2022-06,23.56,79.95
+CHN,China,2022-06,18.01,123.59
+KEN,Kenya,2022-06,24.48,38.42
+NLD,Netherlands,2022-06,15.81,74.17
+USA,United States of America,2022-06,19.47,75.03
+BRA,Brazil,2022-07,23.6,60.75
+CHN,China,2022-07,20.09,145.1
+KEN,Kenya,2022-07,23.75,39.97
+NLD,Netherlands,2022-07,17.94,91.65
+USA,United States of America,2022-07,22.16,69.4
+BRA,Brazil,2022-08,24.74,50.35
+CHN,China,2022-08,18.99,127.04
+KEN,Kenya,2022-08,23.99,45.49
+NLD,Netherlands,2022-08,17.83,92.53
+USA,United States of America,2022-08,21.18,67.87
+BRA,Brazil,2022-09,25.67,73.1
+CHN,China,2022-09,14.61,79.7
+KEN,Kenya,2022-09,24.93,32.77
+NLD,Netherlands,2022-09,14.94,71.07
+USA,United States of America,2022-09,16.9,69.72
+BRA,Brazil,2022-10,26.05,122.3
+CHN,China,2022-10,7.81,47.2
+KEN,Kenya,2022-10,25.39,64.01
+NLD,Netherlands,2022-10,11.26,75.6
+USA,United States of America,2022-10,10.02,67.37
+BRA,Brazil,2022-11,25.68,169.37
+CHN,China,2022-11,0.03,27.22
+KEN,Kenya,2022-11,24.82,106.06
+NLD,Netherlands,2022-11,7.1,69.04
+USA,United States of America,2022-11,3.25,59.78
+BRA,Brazil,2022-12,25.58,209.32
+CHN,China,2022-12,-6.07,17.33
+KEN,Kenya,2022-12,25.2,60.82
+NLD,Netherlands,2022-12,3.62,77.44
+USA,United States of America,2022-12,-1.69,66.08
