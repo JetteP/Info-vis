@@ -13,3 +13,9 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: false
+
+# Repository information (required for the buttons to work)
+repository:
+  url: https://github.com/JetteP/Info-vis  # The full URL to your GitHub repo
+  path_to_book: ""                         # If your book is in the root, leave this empty
+  branch: main                             # Default branch name
